@@ -1,2 +1,2 @@
-# Angry-Birds-8
-Birds that are Angry
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
